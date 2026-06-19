@@ -5,7 +5,7 @@ programa
 	{
 		caracter operacao
 		
-		real n1, n2, r
+		real n1, n2, r /* r == resultado, n1 eh o primeiro numero e n2 eh o segundo numero */
 		
 		escreva("Informe o primeiro número: ")
 		leia(n1)
